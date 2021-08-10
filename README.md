@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kintanr
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Codeigniter, ASP.Net Core
+- 🌱 I’m currently learning Codeigniter, Vue.js
 - 📫 How to reach me kintanumari178@gmail.com
 
 <!---
